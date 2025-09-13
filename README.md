@@ -1,5 +1,3 @@
-# Coding Challenges
-
 💻 **Coding Challenges** – A collection of solved questions from multiple coding platforms and hackathons.
 
 ---
@@ -33,7 +31,7 @@ It is designed to help developers practice coding, sharpen logic, and prepare fo
 
 ---
 
-##Each folder may include:
+Each folder may include:
 
 - **Problem Statement**
 - **Solution Code (with comments)**
@@ -41,11 +39,11 @@ It is designed to help developers practice coding, sharpen logic, and prepare fo
 
 ---
 
-##⚡Getting Started
+Getting Started
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/your-username/coding-challenges.git
+   git clone git@github.com:Rvcode-spec/coding-challenges.git
    cd coding-challenges
 
 🎯 Goals
