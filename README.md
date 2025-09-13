@@ -20,14 +20,16 @@ It is designed to help developers practice coding, sharpen logic, and prepare fo
 
 ---
 
-## 📂 Repository Structure
+# 📂 Repository Structure
 
-coding-challenges/
-├── leetcode/ # LeetCode problem solutions
-├── hackerrank/ # HackerRank solutions
-├── codeforces/ # Codeforces contest solutions
-├── codechef/ # CodeChef problems
-├── hackathons/ # Hackathon problem statements & solutions
+| Folder Name      | Description                                   |
+|------------------|-----------------------------------------------|
+| `leetcode `      | LeetCode problem solutions with explanations  |
+| `hackerrank `    | HackerRank solutions with clean code          |
+| `codeforces `    | Codeforces contest solutions and approaches   |
+| `codechef `      | CodeChef problem solutions                    |
+| `hackathons `    | Hackathon problem statements & solutions      |
+
 
 ---
 
